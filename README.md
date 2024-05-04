@@ -1,4 +1,3 @@
-![logo](https://github.com/AmarYasser1/AmarYasser1/blob/main/Screenshot%202024-04-29%20234940.png)
 <h1 align="center">Hi 👋, I'm Amar Yasser</h1>
 <h3 align="center">A passionate Software Engineer from Egypt</h3>
 
