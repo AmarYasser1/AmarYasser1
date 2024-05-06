@@ -1,4 +1,3 @@
-![snake gif](https://github.com/AmarYasser1/AmarYasser1/blob/output/github-contribution-grid-snake.gif)
 <h1 align="center">Hi 👋, I'm Amar Yasser</h1>
 <h3 align="center">A passionate Software Engineer from Egypt</h3>
 
@@ -25,3 +24,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amaryasser1&show_icons=true&locale=en" alt="amaryasser1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amaryasser1&" alt="amaryasser1" /></p>
+
+## Snake eating my contribute graph
+![snake gif](https://github.com/AmarYasser1/AmarYasser1/blob/output/github-contribution-grid-snake.gif)
