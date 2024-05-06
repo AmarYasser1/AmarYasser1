@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/amar yasser" target="blank"><img align="center" src="https://linkedin.com/in/amar yasser" alt="amar yasser" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amar yasser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amar yasser" height="30" width="40" /></a>
 <a href="https://fb.com/amar yasser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amar yasser" height="30" width="40" /></a>
 <a href="https://discord.gg/amar yasser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="amar yasser" height="30" width="40" /></a>
 </p>
