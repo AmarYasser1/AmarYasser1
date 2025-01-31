@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AmarYasser1](https://github.com/AmarYasser1)
 
-- 📫 How to reach me **ssniperlove3@gmail.com**
+- 📫 How to reach me **amaryasser.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
